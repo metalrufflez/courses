@@ -1,0 +1,31 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+CONSONANTS	ps4a.py	/^CONSONANTS = 'bcdfghjklmnpqrstvwxyz'$/;"	v
+HAND_SIZE	ps4a.py	/^HAND_SIZE = 7$/;"	v
+SCRABBLE_LETTER_VALUES	ps4a.py	/^SCRABBLE_LETTER_VALUES = {$/;"	v
+VOWELS	ps4a.py	/^VOWELS = 'aeiou'$/;"	v
+WORDLIST_FILENAME	ps4a.py	/^WORDLIST_FILENAME = "words.txt"$/;"	v
+calculateHandlen	ps4a.py	/^def calculateHandlen(hand):$/;"	f
+compChooseWord	ps4b.py	/^def compChooseWord(hand, wordList):$/;"	f
+compPlayHand	ps4b.py	/^def compPlayHand(hand, wordList):$/;"	f
+dealHand	ps4a.py	/^def dealHand(n):$/;"	f
+displayHand	ps4a.py	/^def displayHand(hand):$/;"	f
+getFrequencyDict	ps4a.py	/^def getFrequencyDict(sequence):$/;"	f
+getWordScore	ps4a.py	/^def getWordScore(word, n):$/;"	f
+isValidWord	ps4a.py	/^def isValidWord(word, hand, wordList):$/;"	f
+loadWords	ps4a.py	/^def loadWords():$/;"	f
+playGame	ps4a.py	/^def playGame(wordList):$/;"	f
+playGame	ps4b.py	/^def playGame(wordList):$/;"	f
+playHand	ps4a.py	/^def playHand(hand, wordList, n):$/;"	f
+random	ps4a.py	/^import random$/;"	i
+string	ps4a.py	/^import string$/;"	i
+test_getWordScore	test_ps4a.py	/^def test_getWordScore():$/;"	f
+test_isValidWord	test_ps4a.py	/^def test_isValidWord(wordList):$/;"	f
+test_updateHand	test_ps4a.py	/^def test_updateHand():$/;"	f
+time	ps4b.py	/^import time$/;"	i
+updateHand	ps4a.py	/^def updateHand(hand, word):$/;"	f
+wordList	test_ps4a.py	/^wordList = loadWords()$/;"	v
