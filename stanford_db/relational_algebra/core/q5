@@ -1,0 +1,7 @@
+\project_{name} (
+    (\project_{name,pizzeria} (
+            (\select_{pizzeria='Dominos'} (
+                    Serves \join Eats
+            ))
+    ) \diff Frequents )
+)

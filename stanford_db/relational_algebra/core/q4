@@ -1,0 +1,9 @@
+(\project_{pizzeria} (
+    (\select_{price < 10} Serves) \join
+    (\select_{name = 'Amy'} Eats)
+)) \intersect
+(\project_{pizzeria} (
+    (\select_{price < 10} Serves) \join
+    (\select_{name = 'Fay'} Eats)
+))
+
